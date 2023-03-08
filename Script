@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Mickjay07/AutoFarmPSX/main/AutoFarm-%20script')))()
